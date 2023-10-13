@@ -5,7 +5,9 @@
       "uris": {
         "jsonLdContext": "https://raw.githubusercontent.com/deepalt92/Polygon-ID/main/proof-of-dao-longevity.jsonld",
         "jsonSchema": "https://raw.githubusercontent.com/deepalt92/Polygon-ID/main/proof-of-dao-longevity.json"
-      }
+      },
+      "version": "1.0",
+       "type": "Test"
     },
     "required": [
       "@context",
